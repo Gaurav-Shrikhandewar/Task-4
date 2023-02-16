@@ -1,0 +1,30 @@
+* { 
+    background-color: whitesmoke;
+}
+
+
+#container { 
+    font-family: 'Times New Roman', Times, serif;
+    height: 27vh;
+    width: 50vw;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin-left: 20vw;
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.1), 0 6px 15px 0 rgba(0,0,0,0.15);
+    background-color: rgb(203, 7, 7);
+}
+
+
+.btns { 
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.1), 0 6px 15px 0 rgba(0,0,0,0.15);
+}
+
+.btns:hover {
+    background-color: rgb(203, 7, 7);
+    color: white;
+}
+
+
+
